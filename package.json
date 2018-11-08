@@ -1,0 +1,24 @@
+{
+  "name": "serverless-plugin-aws-cn-principal",
+  "version": "0.0.1",
+  "description": "Resolve serverless invalid principal issue when deploying in China region.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beary/serverless-plugin-aws-cn-principal.git"
+  },
+  "keywords": [
+    "aws",
+    "china",
+    "principal"
+  ],
+  "author": "beary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beary/serverless-plugin-aws-cn-principal/issues"
+  },
+  "homepage": "https://github.com/beary/serverless-plugin-aws-cn-principal#readme"
+}
