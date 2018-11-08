@@ -10,6 +10,12 @@ $ npm i serverless-plugin-aws-cn-principal -D
 # ...
 plugins:
   - serverless-plugin-aws-cn-principal
+
+provider:
+  name: aws
+  region: cn-north-1
+  endpointType: regional
+# ...
 ```
 ```bash
 $ serverless deploy -v
