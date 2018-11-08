@@ -5,7 +5,7 @@ Resolve [serverless invalid principal issue](https://github.com/serverless/serve
 ```bash
 $ npm i serverless-plugin-aws-cn-principal -D
 ```
-```javascript
+```yml
 /* serverless.yml */
 # ...
 plugins:
