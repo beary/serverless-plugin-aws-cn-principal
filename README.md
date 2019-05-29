@@ -1,4 +1,4 @@
-# Deprecated
+# ⚠Deprecated
 
 **You may not need this plugin since https://github.com/serverless/serverless/pull/6127 was merged.**
 
